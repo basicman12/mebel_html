@@ -1,0 +1,44 @@
+.icon{
+    display: block;
+    background: transparent url(../images/icons.png) 1000px 1000px no-repeat;
+}
+.icon.cart{
+    width: 90px;
+    height: 74px;
+    background-position: 0 0;
+}
+.icon.cristal{
+    width: 101px;
+    height: 70px;
+    background-position: 0 -74px;
+}
+.icon.star{
+    width: 75px;
+    height: 85px;
+    background-position: 0 -144px;
+}
+.icon.target{
+    width: 85px;
+    height: 85px;
+    background-position: 0 -229px;
+}
+.icon.garant{
+    width: 87px;
+    height: 90px;
+    background-position: 0 -314px;
+}
+.icon.flamp{
+    width: 280px;
+    height: 50px;
+    background-position: 0 -589px;
+}
+.icon.vk{
+    width: 202px;
+    height: 245px;
+    background-position: 0 -639px;
+}
+.icon.garant-big{
+    width: 144px;
+    height: 167px;
+    background-position: 0 -921px;
+}
