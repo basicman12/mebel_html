@@ -1,2 +1,2 @@
-# [Новосибирская Филармония](https://basicman12.github.io/phil_html/index.html)
+# [Делай мебель](https://basicman12.github.io/mebel_html/index.html)
 <hr />
